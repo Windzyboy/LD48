@@ -16,64 +16,64 @@
 "D:/UE4 Projects/LD48/Content/Bubbles.uasset" 15
 "D:/UE4 Projects/LD48/Content/Textures/TalkingHeadNormal.uasset" 16
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 17
-"D:/UE4 Projects/LD48/Content/Textures/TalkingHeadOpen.uasset" 18
-"D:/UE4 Projects/LD48/Content/Sounds/MeBoeld48.uasset" 19
-"D:/UE4 Projects/LD48/Content/Blueprints/DialogueStruct.uasset" 20
-"D:/UE4 Projects/LD48/Content/UMG/ChatBox.uasset" 21
-"D:/UE4 Projects/LD48/Content/ChatBox.uasset" 22
-"D:/UE4 Projects/LD48/Content/DialogueStruct.uasset" 23
-"D:/UE4 Projects/LD48/Content/Textures/harpoon.uasset" 24
-"D:/UE4 Projects/LD48/Content/harpoon.uasset" 25
-"D:/UE4 Projects/LD48/Content/Textures/Sprites/harpoon_Sprite.uasset" 26
-"D:/UE4 Projects/LD48/Content/Blueprints/Interfaces.uasset" 27
-"D:/UE4 Projects/LD48/Content/Blueprints/HarpoonProjectile.uasset" 28
-"D:/UE4 Projects/LD48/Content/HarpoonProjectile.uasset" 29
-"D:/UE4 Projects/LD48/Content/InteractionInterface.uasset" 30
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/water_d.uasset" 31
-"D:/UE4 Projects/LD48/Content/Materials/Water_M.uasset" 32
-"D:/UE4 Projects/LD48/Content/Materials/Invisble_M.uasset" 33
-"D:/UE4 Projects/LD48/Content/Invisble_M.uasset" 34
-"D:/UE4 Projects/LD48/Content/Textures/Sparkle.uasset" 35
-"D:/UE4 Projects/LD48/Content/Materials/Sparkle_PM.uasset" 36
-"D:/UE4 Projects/LD48/Content/Particle/ItemSparkles.uasset" 37
-"D:/UE4 Projects/LD48/Content/ItemSparkles.uasset" 38
-"D:/UE4 Projects/LD48/Content/Textures/ug.uasset" 39
-"D:/UE4 Projects/LD48/Content/Textures/Sprites/ug_Sprite.uasset" 40
-"D:/UE4 Projects/LD48/Content/Textures/oxygen.uasset" 41
-"D:/UE4 Projects/LD48/Content/Textures/Sprites/oxygen_Sprite.uasset" 42
-"D:/UE4 Projects/LD48/Content/Sounds/ug.uasset" 43
-"D:/UE4 Projects/LD48/Content/Textures/idletalk.uasset" 44
-"D:/UE4 Projects/LD48/Content/Textures/Sprites/idletalk_Sprite.uasset" 45
-"D:/UE4 Projects/LD48/Content/Textures/idle1.uasset" 46
-"D:/UE4 Projects/LD48/Content/Textures/Sprites/idle1_Sprite.uasset" 47
-"D:/UE4 Projects/LD48/Content/Textures/Sprites/Talking.uasset" 48
-"D:/UE4 Projects/LD48/Content/Textures/swim2.uasset" 49
-"D:/UE4 Projects/LD48/Content/Textures/Sprites/swim2_Sprite.uasset" 50
-"D:/UE4 Projects/LD48/Content/Textures/swim1.uasset" 51
-"D:/UE4 Projects/LD48/Content/Textures/Sprites/swim1_Sprite.uasset" 52
-"D:/UE4 Projects/LD48/Content/Textures/Sprites/Swimming.uasset" 53
-"D:/UE4 Projects/LD48/Content/Textures/Sprites/Idle.uasset" 54
-"D:/UE4 Projects/LD48/Content/Textures/hgun.uasset" 55
-"D:/UE4 Projects/LD48/Content/Textures/Sprites/hgun_Sprite.uasset" 56
-"D:/UE4 Projects/LD48/Content/Sounds/harpoonfire.uasset" 57
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 58
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 59
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 60
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/SphereGradient-2D.uasset" 61
-"D:/UE4 Projects/LD48/Content/Materials/RadialFade.uasset" 62
-"D:/UE4 Projects/LD48/Content/Textures/Marker.uasset" 63
-"D:/UE4 Projects/LD48/Content/Textures/Sprites/Marker_Sprite.uasset" 64
-"D:/UE4 Projects/LD48/Content/Blueprints/UsableTriggerBase.uasset" 65
-"D:/UE4 Projects/LD48/Content/Textures/hgune.uasset" 66
-"D:/UE4 Projects/LD48/Content/Textures/Sprites/hgune_Sprite.uasset" 67
-"D:/UE4 Projects/LD48/Content/Blueprints/DialogueComponent.uasset" 68
-"../../../Engine/Content/EngineFonts/Faces/DroidSansMono.uasset" 69
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 70
-"../../../Engine/Content/EngineFonts/DroidSansMono.uasset" 71
-"D:/UE4 Projects/LD48/Content/Textures/o2fill.uasset" 72
-"D:/UE4 Projects/LD48/Content/Textures/o2empty.uasset" 73
-"D:/UE4 Projects/LD48/Content/UMG/Player_UMG.uasset" 74
-"D:/UE4 Projects/LD48/Content/Player_Char.uasset" 75
+"D:/UE4 Projects/LD48/Content/Sounds/harpoonfire.uasset" 18
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 19
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 20
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 21
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/SphereGradient-2D.uasset" 22
+"D:/UE4 Projects/LD48/Content/Materials/RadialFade.uasset" 23
+"D:/UE4 Projects/LD48/Content/Textures/hgune.uasset" 24
+"D:/UE4 Projects/LD48/Content/Textures/Sprites/hgune_Sprite.uasset" 25
+"D:/UE4 Projects/LD48/Content/Textures/Marker.uasset" 26
+"D:/UE4 Projects/LD48/Content/Textures/Sprites/Marker_Sprite.uasset" 27
+"D:/UE4 Projects/LD48/Content/Blueprints/Interfaces.uasset" 28
+"D:/UE4 Projects/LD48/Content/Blueprints/UsableTriggerBase.uasset" 29
+"D:/UE4 Projects/LD48/Content/Textures/idletalk.uasset" 30
+"D:/UE4 Projects/LD48/Content/Textures/Sprites/idletalk_Sprite.uasset" 31
+"D:/UE4 Projects/LD48/Content/Textures/idle1.uasset" 32
+"D:/UE4 Projects/LD48/Content/Textures/Sprites/idle1_Sprite.uasset" 33
+"D:/UE4 Projects/LD48/Content/Textures/Sprites/Talking.uasset" 34
+"D:/UE4 Projects/LD48/Content/Textures/swim2.uasset" 35
+"D:/UE4 Projects/LD48/Content/Textures/Sprites/swim2_Sprite.uasset" 36
+"D:/UE4 Projects/LD48/Content/Textures/swim1.uasset" 37
+"D:/UE4 Projects/LD48/Content/Textures/Sprites/swim1_Sprite.uasset" 38
+"D:/UE4 Projects/LD48/Content/Textures/Sprites/Swimming.uasset" 39
+"D:/UE4 Projects/LD48/Content/Textures/Sprites/Idle.uasset" 40
+"D:/UE4 Projects/LD48/Content/Textures/hgun.uasset" 41
+"D:/UE4 Projects/LD48/Content/Textures/Sprites/hgun_Sprite.uasset" 42
+"../../../Engine/Content/EngineFonts/Faces/DroidSansMono.uasset" 43
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 44
+"../../../Engine/Content/EngineFonts/DroidSansMono.uasset" 45
+"D:/UE4 Projects/LD48/Content/Textures/o2fill.uasset" 46
+"D:/UE4 Projects/LD48/Content/Textures/o2empty.uasset" 47
+"D:/UE4 Projects/LD48/Content/UMG/Player_UMG.uasset" 48
+"D:/UE4 Projects/LD48/Content/Textures/harpoon.uasset" 49
+"D:/UE4 Projects/LD48/Content/Textures/Sprites/harpoon_Sprite.uasset" 50
+"D:/UE4 Projects/LD48/Content/Blueprints/HarpoonProjectile.uasset" 51
+"D:/UE4 Projects/LD48/Content/Player_Char.uasset" 52
+"D:/UE4 Projects/LD48/Content/Textures/TalkingHeadOpen.uasset" 53
+"D:/UE4 Projects/LD48/Content/Sounds/MeBoeld48.uasset" 54
+"D:/UE4 Projects/LD48/Content/Blueprints/DialogueStruct.uasset" 55
+"D:/UE4 Projects/LD48/Content/Blueprints/DialogueComponent.uasset" 56
+"D:/UE4 Projects/LD48/Content/UMG/ChatBox.uasset" 57
+"D:/UE4 Projects/LD48/Content/ChatBox.uasset" 58
+"D:/UE4 Projects/LD48/Content/DialogueStruct.uasset" 59
+"D:/UE4 Projects/LD48/Content/harpoon.uasset" 60
+"D:/UE4 Projects/LD48/Content/HarpoonProjectile.uasset" 61
+"D:/UE4 Projects/LD48/Content/InteractionInterface.uasset" 62
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/water_d.uasset" 63
+"D:/UE4 Projects/LD48/Content/Materials/Water_M.uasset" 64
+"D:/UE4 Projects/LD48/Content/Materials/Invisble_M.uasset" 65
+"D:/UE4 Projects/LD48/Content/Invisble_M.uasset" 66
+"D:/UE4 Projects/LD48/Content/Textures/Sparkle.uasset" 67
+"D:/UE4 Projects/LD48/Content/Materials/Sparkle_PM.uasset" 68
+"D:/UE4 Projects/LD48/Content/Particle/ItemSparkles.uasset" 69
+"D:/UE4 Projects/LD48/Content/ItemSparkles.uasset" 70
+"D:/UE4 Projects/LD48/Content/Textures/ug.uasset" 71
+"D:/UE4 Projects/LD48/Content/Textures/Sprites/ug_Sprite.uasset" 72
+"D:/UE4 Projects/LD48/Content/Textures/oxygen.uasset" 73
+"D:/UE4 Projects/LD48/Content/Textures/Sprites/oxygen_Sprite.uasset" 74
+"D:/UE4 Projects/LD48/Content/Sounds/ug.uasset" 75
 "D:/UE4 Projects/LD48/Content/Blueprints/Upgrade.uasset" 76
 "D:/UE4 Projects/LD48/Content/Blueprints/TankUpgrade.uasset" 77
 "D:/UE4 Projects/LD48/Content/O2Upgrade.uasset" 78
@@ -198,11 +198,11 @@
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 197
 "../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 198
 "../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 199
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 200
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 201
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 202
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 203
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 204
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 200
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 201
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 202
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 203
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 204
 "../../../Engine/Content/EngineFonts/Roboto.uasset" 205
 "../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 206
 "../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 207
@@ -312,26 +312,29 @@
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 311
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 312
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 313
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 314
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 315
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 314
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 315
 "../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 316
-"../../../Engine/Content/BasicShapes/Plane.uasset" 317
-"D:/UE4 Projects/LD48/Content/Test_BuiltData.uasset" 318
-"D:/UE4 Projects/LD48/Content/Blueprints/Money.uasset" 319
-"D:/UE4 Projects/LD48/Content/Textures/sticky.uasset" 320
-"D:/UE4 Projects/LD48/Content/Textures/Sprites/sticky_Sprite.uasset" 321
-"D:/UE4 Projects/LD48/Content/Textures/ship.uasset" 322
-"D:/UE4 Projects/LD48/Content/Textures/Sprites/ship_Sprite.uasset" 323
-"D:/UE4 Projects/LD48/Content/Textures/warning.uasset" 324
-"D:/UE4 Projects/LD48/Content/Textures/Sprites/warning_Sprite.uasset" 325
-"D:/UE4 Projects/LD48/Content/Textures/warning_Sprite_Blueprint.uasset" 326
-"D:/UE4 Projects/LD48/Content/Materials/Invisible_M.uasset" 327
-"D:/UE4 Projects/LD48/Content/Blueprints/UsableTriggerTeleport.uasset" 328
-"D:/UE4 Projects/LD48/Content/Textures/target.uasset" 329
-"D:/UE4 Projects/LD48/Content/Textures/Sprites/target_Sprite.uasset" 330
-"D:/UE4 Projects/LD48/Content/Sounds/ld48explode.uasset" 331
-"D:/UE4 Projects/LD48/Content/Particle/Explode.uasset" 332
-"D:/UE4 Projects/LD48/Content/Blueprints/HarpoonTarget.uasset" 333
-"D:/UE4 Projects/LD48/Content/Test.umap" 334
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 335
-"../../../Engine/Content/Maps/Entry.umap" 336
+"D:/UE4 Projects/LD48/Content/Materials/Invisible_M.uasset" 317
+"D:/UE4 Projects/LD48/Content/Blueprints/UsableTriggerTeleport.uasset" 318
+"../../../Engine/Content/BasicShapes/Plane.uasset" 319
+"D:/UE4 Projects/LD48/Content/Test_BuiltData.uasset" 320
+"D:/UE4 Projects/LD48/Content/Blueprints/Money.uasset" 321
+"D:/UE4 Projects/LD48/Content/Textures/TalkingHeadOpen1.uasset" 322
+"D:/UE4 Projects/LD48/Content/Textures/TalkingHeadNormal1.uasset" 323
+"D:/UE4 Projects/LD48/Content/Blueprints/Info.uasset" 324
+"D:/UE4 Projects/LD48/Content/Sounds/ld48explode.uasset" 325
+"D:/UE4 Projects/LD48/Content/Particle/Explode.uasset" 326
+"D:/UE4 Projects/LD48/Content/Textures/target.uasset" 327
+"D:/UE4 Projects/LD48/Content/Textures/Sprites/target_Sprite.uasset" 328
+"D:/UE4 Projects/LD48/Content/Blueprints/HarpoonTarget.uasset" 329
+"D:/UE4 Projects/LD48/Content/Textures/sticky.uasset" 330
+"D:/UE4 Projects/LD48/Content/Textures/Sprites/sticky_Sprite.uasset" 331
+"D:/UE4 Projects/LD48/Content/Textures/ship.uasset" 332
+"D:/UE4 Projects/LD48/Content/Textures/Sprites/ship_Sprite.uasset" 333
+"D:/UE4 Projects/LD48/Content/Textures/warning.uasset" 334
+"D:/UE4 Projects/LD48/Content/Textures/Sprites/warning_Sprite.uasset" 335
+"D:/UE4 Projects/LD48/Content/Textures/warning_Sprite_Blueprint.uasset" 336
+"D:/UE4 Projects/LD48/Content/Test.umap" 337
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 338
+"../../../Engine/Content/Maps/Entry.umap" 339
